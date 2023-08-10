@@ -4,7 +4,11 @@ This is a project for the Summer Undergraduate Data Science 2023 program at the 
 
 ### Disclaiminer: 
 1. Due to security issues, the dataset was not provided in the code. The code will not run. I have instead attached screenshot figure you can view in fig/plots.
-2. If you want to learn how to use targets and quarto, here are the resources I used to get started.
+
+   ## Then what is the point of the code?
+   I still think it is greatly valuable to see how I wrote my scripts using target and rendered them in quarto. Even if you may not be able to run the code yourself, you are always welcome to point out any areas of improvement and suggestions which can benefit both you and me! 
+   
+3. If you want to learn how to use targets and quarto, here are the resources I used to get started.
 
    <https://quarto.org/docs/get-started/hello/rstudio.html>
 
