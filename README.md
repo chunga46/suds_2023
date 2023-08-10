@@ -22,4 +22,4 @@ This is a project for the Summer Undergraduate Data Science 2023 program at the 
 
 Feel free to reach out at andrewy.chung@mail.utoronto.ca!
 
-- Andrew Chung 
+-Andrew Chung 
