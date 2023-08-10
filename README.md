@@ -19,3 +19,7 @@ This is a project for the Summer Undergraduate Data Science 2023 program at the 
    <https://ucsbcarpentry.github.io/Reproducible-Publications-with-RStudio-Quarto/>
    
 4. I apologize in advance if the folders are not organized. I had intended to have all files related to generating a report in a report folder, but ran into issues running _target.R. I was not able to fix how _target.R wants to be in the same directory with the report qmd file when rendering the report. 
+
+Feel free to reach out at andrewy.chung@mail.utoronto.ca!
+
+- Andrew Chung 
