@@ -1,0 +1,10 @@
+name|type|parent|branches|progress
+goal_set_data_raw_file|stem|goal_set_data_raw_file|0|skipped
+goal_set_data_raw|stem|goal_set_data_raw|0|skipped
+sample|stem|sample|0|skipped
+goal_set_data|stem|goal_set_data|0|skipped
+grade_dist|stem|grade_dist|0|skipped
+group_diffs|stem|group_diffs|0|skipped
+sum_table|stem|sum_table|0|skipped
+goal_set_report|stem|goal_set_report|0|started
+goal_set_report|stem|goal_set_report|0|built
